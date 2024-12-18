@@ -1,0 +1,19 @@
+#Gradio - For building the user interface.
+#PaddleOCR - For Optical Character Recognition (OCR) using PaddlePaddle.
+#PaddlePaddle - The deep learning framework used by PaddleOCR.
+#Pillow - To handle and process images (PIL images).
+#OpenCV - For image processing tasks (e.g., drawing bounding boxes).
+#NumPy - For handling image arrays.
+#Matplotlib - For generating error rate plots (WER, CER).
+#JiWER - For calculating Word Error Rate (WER) and Character Error Rate (CER).
+#CSV - To save results in CSV format (standard library, no installation needed).
+#io - For handling input/output operations (standard library, no installation needed).
+
+gradio
+paddleocr
+paddlepaddle
+pillow
+opencv-python
+numpy
+matplotlib
+jiwer
